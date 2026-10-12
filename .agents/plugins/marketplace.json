@@ -9,7 +9,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/LautaroO/maf-dotnet-template.git",
-        "sha": "7e497e5bddfbbdb589eee06d3d7b57936ae69056"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
