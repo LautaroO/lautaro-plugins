@@ -1,0 +1,21 @@
+{
+  "name": "lautaro-plugins",
+  "interface": {
+    "displayName": "Lautaro Plugins"
+  },
+  "plugins": [
+    {
+      "name": "maf-dotnet",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LautaroO/maf-dotnet-template.git",
+        "sha": "7e497e5bddfbbdb589eee06d3d7b57936ae69056"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
